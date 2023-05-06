@@ -37,7 +37,7 @@ TMOIA-GUI provide two main functions:
 We provide an application package that can run directly on Windows without any configuration. It is recommended for Windows users.
 
 1. Download TMOIA-GUI self-extracting archive at the releases page.
-2. Click to run **`TMOIA-GUI_unzip.exe`**. Select an appropriate path with user permissions to decompress the program folder (For example, **DO NOT** extract program files to `C:\` on Windows system). The executable program and the affiliated files will appear in your selected directory.
+2. Click to run **`TMOIA-GUI_self-extracting.exe`**. Select an appropriate path with user permissions to extract the program folder (For example, **DO NOT** extract program files to `C:\` on Windows system). The executable program and the affiliated files will appear in your selected directory.
 3. Enter the extracted folder. Click **`TMOIA-GUI.exe`** to start.
 
 ### For **Linux**
